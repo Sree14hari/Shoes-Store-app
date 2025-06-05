@@ -12,7 +12,8 @@ An elegant and responsive e-commerce application for browsing and purchasing sho
 
 ## 📸 Screenshots
 
-*Include screenshots of the app in both light and dark modes here.*
+![Screenshot_20250605-212310](https://github.com/user-attachments/assets/deedba08-103c-404a-8811-c5a2ddc7fcdf)
+
 
 ## 🛠️ Getting Started
 

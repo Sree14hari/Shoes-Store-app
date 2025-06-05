@@ -12,7 +12,11 @@ An elegant and responsive e-commerce application for browsing and purchasing sho
 
 ## 📸 Screenshots
 
+![Screenshot_20250605-212308](https://github.com/user-attachments/assets/b65e3566-ab74-436f-936e-736d761533d4)
+
 ![Screenshot_20250605-212310](https://github.com/user-attachments/assets/deedba08-103c-404a-8811-c5a2ddc7fcdf)
+
+![Screenshot_20250605-212319](https://github.com/user-attachments/assets/35db860c-3d6a-410e-ba00-338f6bb61d60)
 
 
 ## 🛠️ Getting Started
